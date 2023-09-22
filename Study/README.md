@@ -1,5 +1,7 @@
 # Тестовое задание 
 ## Что нужно сделать
+Документация к API
+127.0.0.1/redoc/
 Клонировать репозиторий.
     git@github.com:zhukov1414/TestTaskHardQode.git
 
